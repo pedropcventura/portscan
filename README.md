@@ -1,4 +1,32 @@
 
+# Instalando dependências diretamente:
+```
+pip install textual
+pip install netifaces
+pip install dnspython
+pip install python-whois
+pip install requests
+pip install python-Wappalyzer
+pip install --upgrade setuptools
+```
+
+# Ferramentas implementadas:
+- Portscan
+- DNS enumeration
+- WHOIS lookup
+- Wappalyzer
+- Subdomain enumeration
+
+# Uso:
+<video width="480" controls>
+  <source src="https://youtu.be/H5qRX78FG50" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
+link: https://youtu.be/H5qRX78FG50
+
+# Perguntas e Respostas
+
 ### Além do PortScan, quais são as 5 ferramentas mais úteis para reconhecimento em um pentest?
 
 * Shodan: motor de busca para dispositivos IoT expostos na internet, utilizado para mapear câmeras de segurança e roteadores. Caso real: botnet Mirai explorou dispositivos IoT identificados pelo Shodan. (https://www.shodan.io)
