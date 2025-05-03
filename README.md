@@ -1,5 +1,6 @@
 
-# Instalando dependências diretamente:
+# Executando o codigo:
+- Baixe as seguintes dependencias:
 ```
 pip install textual
 pip install netifaces
@@ -9,6 +10,9 @@ pip install requests
 pip install python-Wappalyzer
 pip install --upgrade setuptools
 ```
+
+- Execute:
+```python main.py```
 
 # Ferramentas implementadas:
 - Portscan
